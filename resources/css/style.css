@@ -4,7 +4,6 @@
     font-size: 70px;
     font-weight: bold;
     color: white;
-    text-align: center;
     background-image: url("../images/theflatironbuilding.png");
     padding: 0cm;
 }
@@ -22,15 +21,12 @@
     color: white;
 }
 
-#navigation a {
-    text-align: center;
-}
-
 
 /*css rule for body element*/
 
 body {
     font-family: helvetica;
+    text-align: center;
 }
 
 
@@ -39,7 +35,6 @@ body {
 .process {
     font-size: 23px;
     font-weight: bold;
-    text-align: center;
 }
 
 
@@ -66,4 +61,5 @@ p {
 #footer {
     font-size: 11px;
     background-color: dimgray;
+    text-align: left;
 }
