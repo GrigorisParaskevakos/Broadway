@@ -7,6 +7,11 @@
     color: white;
     text-align: center;
     background-image: url("../images/theflatironbuilding.png");
+    padding: 0cm;
+}
+
+#heading #navigation {
+    background-image: url("../images/theflatironbuilding.png");
 }
 
 
