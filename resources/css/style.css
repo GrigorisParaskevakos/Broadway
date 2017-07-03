@@ -1,4 +1,7 @@
 h1 {
+    font-size: 100px;
+    font-weight: bold;
+    color: white;
     text-align: center;
-    color: brown;
+    background-image: url("../images/theflatironbuilding.png");
 }
