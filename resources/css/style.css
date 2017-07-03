@@ -1,7 +1,62 @@
-h1 {
-    font-size: 100px;
+/*css rule for h1 top heading*/
+
+#heading h1 {
+    font-family: Helvetica;
+    font-size: 70px;
     font-weight: bold;
     color: white;
     text-align: center;
     background-image: url("../images/theflatironbuilding.png");
+}
+
+
+/*css rule for links inside heading, footer*/
+
+#navigation a,
+#footer a {
+    font-family: Helvetica;
+    font-size: 18px;
+    color: white;
+}
+
+#navigation a {
+    text-align: center;
+}
+
+
+/*css rule for class process*/
+
+.process {
+    font-size: 23px;
+    font-weight: bold;
+    font-family: helvetica;
+    text-align: center;
+}
+
+
+/*css rule for id ny*/
+
+#ny {
+    font-family: Helvetica;
+    font-size: 23px;
+    font-weight: bold;
+    color: white;
+    background-image: url("../images/theflatironbuilding.png");
+}
+
+
+/*css rule for p elements*/
+
+p {
+    font-size: 14px;
+    font-weight: normal;
+}
+
+
+/*css rule for footer*/
+
+#footer {
+    font-family: Helvetica;
+    font-size: 11px;
+    background-color: dimgray;
 }
