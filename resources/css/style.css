@@ -5,7 +5,7 @@
     font-weight: bold;
     color: white;
     background-image: url("../images/theflatironbuilding.png");
-    padding: 0cm;
+    max-width: 100%;
 }
 
 #heading #navigation {
