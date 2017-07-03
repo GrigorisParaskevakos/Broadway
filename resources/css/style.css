@@ -1,7 +1,6 @@
 /*css rule for h1 top heading*/
 
 #heading h1 {
-    font-family: Helvetica;
     font-size: 70px;
     font-weight: bold;
     color: white;
@@ -19,7 +18,6 @@
 
 #navigation a,
 #footer a {
-    font-family: Helvetica;
     font-size: 18px;
     color: white;
 }
@@ -29,20 +27,25 @@
 }
 
 
+/*css rule for body element*/
+
+body {
+    font-family: helvetica;
+}
+
+
 /*css rule for class process*/
 
 .process {
     font-size: 23px;
     font-weight: bold;
-    font-family: helvetica;
     text-align: center;
 }
 
 
-/*css rule for id ny*/
+/*css rule for id ny New York*/
 
 #ny {
-    font-family: Helvetica;
     font-size: 23px;
     font-weight: bold;
     color: white;
@@ -61,7 +64,6 @@ p {
 /*css rule for footer*/
 
 #footer {
-    font-family: Helvetica;
     font-size: 11px;
     background-color: dimgray;
 }
